@@ -117,7 +117,7 @@ public class DocumentOcrJob : IDocumentOcrJob
                     }
                     catch (Exception ex)
                     {
-                        // 可加日志
+                        // Can add logging
                         markdownText = $"[Error parsing OCR result] {ex.Message}";
                     }
 

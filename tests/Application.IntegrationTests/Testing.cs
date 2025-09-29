@@ -55,7 +55,7 @@ public class Testing
 
         //startup.ConfigureServices(services);
 
-        // 替换 IUserContextAccessor 的注册
+        // Replace IUserContextAccessor registration
         var userContextServiceDescriptor = services.FirstOrDefault(d =>
             d.ServiceType == typeof(IUserContextAccessor));
         if (userContextServiceDescriptor != null)
@@ -63,7 +63,7 @@ public class Testing
             services.Remove(userContextServiceDescriptor);
         }
 
-        // 使用 Moq 创建 Mock 对象并配置 Current 属性
+        // Use Moq to create Mock object and configure Current property
         services.AddSingleton<IUserContextAccessor>(provider =>
         {
             var mockUserContextAccessor = new Mock<IUserContextAccessor>();

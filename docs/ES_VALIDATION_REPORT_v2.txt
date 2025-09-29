@@ -1,0 +1,267 @@
+﻿Validation run: 2025-08-26T21:40:39.1309270-03:00
+Repository: C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Application\Resources\Constants\ConstantString.es.resx
+  Keys: OK (same count: 60)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Application\Resources\Features\AuditTrails\Queries\Export\ExportAuditTrailsQueryHandler.es.resx
+  Keys: OK (same count: 7)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Application\Resources\Features\Contacts\Commands\Import\ImportContactsCommandHandler.es.resx
+  Keys: OK (same count: 7)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Application\Resources\Features\Contacts\Queries\Export\ExportContactsQueryHandler.es.resx
+  Keys: OK (same count: 6)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Application\Resources\Features\Documents\Queries\Export\ExportDocumentsQueryHandler.es.resx
+  Keys: OK (same count: 5)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Application\Resources\Features\DocumentTypes\Commands\Import\ImportDocumentTypesCommandHandler.es.resx
+  Keys: OK (same count: 3)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Application\Resources\Features\DocumentTypes\Queries\Export\ExportDocumentTypesQueryHandler.es.resx
+  Keys: OK (same count: 3)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Application\Resources\Features\Identity\Commands\ResetPassword\ResetPasswordCommandHandler.es.resx
+  Keys: OK (same count: 3)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Application\Resources\Features\Identity\DTOs\ApplicationUserDtoValidator.es.resx
+  Keys: OK (same count: 23)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Application\Resources\Features\Identity\Notifications\ResetPassword\ResetPasswordNotificationHandler.es.resx
+  Keys: OK (same count: 1)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Application\Resources\Features\Identity\Notifications\SendFactorCode\SendFactorCodeNotificationHandler.es.resx
+  Keys: OK (same count: 1)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Application\Resources\Features\Identity\Notifications\SendWelcome\SendWelcomeNotificationHandler.es.resx
+  Keys: OK (same count: 1)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Application\Resources\Features\Identity\Notifications\UserActivation\UserActivationNotificationHandler.es.resx
+  Keys: OK (same count: 1)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Application\Resources\Features\KeyValues\Commands\Import\ImportKeyValuesCommandHandler.es.resx
+  Keys: OK (same count: 5)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Application\Resources\Features\KeyValues\Queries\Export\ExportKeyValuesQueryHandler.es.resx
+  Keys: OK (same count: 5)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Application\Resources\Features\Loggers\Queries\Export\ExportLogsQueryHandler.es.resx
+  Keys: OK (same count: 8)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Application\Resources\Features\PicklistSets\Commands\Import\ImportPicklistSetsCommandHandler.es.resx
+  Keys: OK (same count: 7)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Application\Resources\Features\PicklistSets\Queries\Export\ExportPicklistSetsQueryHandler.es.resx
+  Keys: OK (same count: 5)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Application\Resources\Features\Products\Commands\Import\ImportProductsCommandHandler.es.resx
+  Keys: OK (same count: 7)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Application\Resources\Features\Products\Queries\Export\ExportProductsQueryHandler.es.resx
+  Keys: OK (same count: 7)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Application\Resources\Features\SystemLogs\Queries\ChatData\SystemLogsChatDataQueryHandler.es.resx
+  Keys: OK (same count: 1)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Application\Resources\Features\SystemLogs\Queries\Export\ExportSystemLogsQueryHandler.es.resx
+  Keys: OK (same count: 8)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Infrastructure\Resources\Services\SecurityAnalysisService.es.resx
+  Keys: OK (same count: 28)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Server.UI\Resources\Components\Identity\UserLoginState.es.resx
+  Keys: OK (same count: 2)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Server.UI\Resources\Components\Localization\LanguageSelector.es.resx
+  Keys: OK (same count: 11)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Server.UI\Resources\Components\Security\SecurityRiskDashboard.es.resx
+  Keys: OK (same count: 6)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Server.UI\Resources\Components\Security\UserLoginRiskSummaryIndicator.es.resx
+  Keys: OK (same count: 9)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Server.UI\Resources\Components\Sessions\ActiveUserSession.es.resx
+  Keys: OK (same count: 1)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Server.UI\Resources\Components\Shared\CustomError.es.resx
+  Keys: OK (same count: 6)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Server.UI\Resources\Components\Shared\ErrorPageComponent.es.resx
+  Keys: OK (same count: 10)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Server.UI\Resources\Components\Shared\Layout\AuthLayout.es.resx
+  Keys: OK (same count: 1)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Server.UI\Resources\Components\Shared\Layout\HeaderMenu.es.resx
+  Keys: OK (same count: 13)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Server.UI\Resources\Components\Shared\Layout\NavigationMenu.es.resx
+  Keys: OK (same count: 31)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Server.UI\Resources\Components\Shared\Layout\NotificationMenu.es.resx
+  Keys: OK (same count: 4)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Server.UI\Resources\Components\Shared\Layout\PublicLayout.es.resx
+  Keys: OK (same count: 2)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Server.UI\Resources\Components\Shared\Layout\SearchDialog.es.resx
+  Keys: OK (same count: 1)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Server.UI\Resources\Components\Shared\Layout\TenantSelector.es.resx
+  Keys: OK (same count: 3)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Server.UI\Resources\Components\Shared\Layout\UserInfoCard.es.resx
+  Keys: OK (same count: 3)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Server.UI\Resources\Components\Shared\Themes\ThemesMenu.es.resx
+  Keys: OK (same count: 9)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Server.UI\Resources\Pages\Dashboard\Dashboard.es.resx
+  Keys: OK (same count: 22)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Server.UI\Resources\Pages\Documents\Documents.es.resx
+  Keys: OK (same count: 23)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Server.UI\Resources\Pages\Error\Error.es.resx
+  Keys: OK (same count: 4)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Server.UI\Resources\Pages\Identity\Forgot\Forgot.es.resx
+  Keys: OK (same count: 7)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Server.UI\Resources\Pages\Identity\Forgot\ForgotPasswordConfirmation.es.resx
+  Keys: OK (same count: 5)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Server.UI\Resources\Pages\Identity\Forgot\ResetPassword.es.resx
+  Keys: OK (same count: 8)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Server.UI\Resources\Pages\Identity\Forgot\ResetPasswordConfirmation.es.resx
+  Keys: OK (same count: 3)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Server.UI\Resources\Pages\Identity\Login\ExternalLoginPicker.es.resx
+  Keys: OK (same count: 2)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Server.UI\Resources\Pages\Identity\Login\InvalidUser.es.resx
+  Keys: OK (same count: 4)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Server.UI\Resources\Pages\Identity\Login\LinkExternalLogin.es.resx
+  Keys: OK (same count: 9)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Server.UI\Resources\Pages\Identity\Login\Lockout.es.resx
+  Keys: OK (same count: 2)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Server.UI\Resources\Pages\Identity\Login\Login.es.resx
+  Keys: OK (same count: 12)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Server.UI\Resources\Pages\Identity\Login\LoginWith2fa.es.resx
+  Keys: OK (same count: 9)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Server.UI\Resources\Pages\Identity\Login\LoginWithRecoveryCode.es.resx
+  Keys: OK (same count: 6)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Server.UI\Resources\Pages\Identity\LoginAudits\LoginAudits.es.resx
+  Keys: OK (same count: 15)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Server.UI\Resources\Pages\Identity\Register\ConfirmEmail.es.resx
+  Keys: OK (same count: 5)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Server.UI\Resources\Pages\Identity\Register\Register.es.resx
+  Keys: OK (same count: 12)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Server.UI\Resources\Pages\Identity\Register\RegisterConfirmation.es.resx
+  Keys: OK (same count: 5)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Server.UI\Resources\Pages\Identity\Roles\Roles.es.resx
+  Keys: OK (same count: 47)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Server.UI\Resources\Pages\Identity\Roles\Components\PermissionsDrawer.es.resx
+  Keys: OK (same count: 127)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Server.UI\Resources\Pages\Identity\Users\Profile.es.resx
+  Keys: OK (same count: 52)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Server.UI\Resources\Pages\Identity\Users\Users.es.resx
+  Keys: OK (same count: 65)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Server.UI\Resources\Pages\PicklistSets\PicklistSets.es.resx
+  Keys: OK (same count: 13)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Server.UI\Resources\Pages\Products\Products.es.resx
+  Keys: OK (same count: 17)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Server.UI\Resources\Pages\SystemManagement\AuditTrails.es.resx
+  Keys: OK (same count: 18)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Server.UI\Resources\Pages\SystemManagement\SystemLogs.es.resx
+  Keys: OK (same count: 10)
+
+
+C:\Users\vdaul\Downloads\CleanArchitectureWithBlazorServer\src\Server.UI\Resources\Pages\Tenants\Tenants.es.resx
+  Keys: OK (same count: 11)
+
+
